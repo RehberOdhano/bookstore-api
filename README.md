@@ -9,7 +9,7 @@ Following are the possible future improvements that we can made to this project:
 * Implementing database migrations for easier schema updates.
 * Optimizing database queries for better performance.
 
-# How to setup this project:
+# Project Configurations:
 
 * Fork or clone the repository
 * Run `npm i` command to install node modules first
